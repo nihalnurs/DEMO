@@ -1,2 +1,0 @@
-hello first commit inside 
-after commit once lets see
